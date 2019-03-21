@@ -8,8 +8,9 @@ This program has been awarded an A+ with 95% score.
 A simple implementation of the Dobble card game has is created. Each card has eight images and each pair of cards will have exactly one image in common. The game is to be the first to spot the matching image on each pair. For the game, one card is revealed each time and compared with the last card in the game. This way, each card is involved twice. At the beginning of the game, players decide how many rounds they want to play in the game. Players can record who won with 'A' or 'B', and a draw can be recorded with a 'D' or 'd'.
 
 ### Files
-An emoji package is used for this game. To install please use: pip install emoji --upgrade
-This game uses a .text file (emoji_names) with 57 emoji's. The original required file had 60, but 3 names did not presented an emoji from the package and therefor they have been removed.
+This game uses a .text file (emoji_names) with 57 emoji names. To let the program find them, this file should be in the same directory as the program itself. 
+
+An emoji package is used for this game. To install please use: pip install emoji --upgrad
 
 ### Structure
 
