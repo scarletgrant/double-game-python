@@ -1,4 +1,4 @@
-# double-game-python
+# Double Game in Python
 
 Double Game in Python using Jupyter Notebook. 
 
